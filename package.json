@@ -1,0 +1,21 @@
+{
+    "name": "ctrl.tabpanel",
+    "description": "标签式面板控件，标签内容可滚动。",
+    "version": "1.0rc1",
+    "homepage": "https://github.com/AlibabaMobileFrontEnd/ctrl.tabpanel",
+    "author": "wintercn",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlibabaMobileFrontEnd/ctrl.tabpanel.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "/blob/master/LICENSE"
+        }
+    ],
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "dependencies": {}
+}
