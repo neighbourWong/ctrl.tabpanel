@@ -9,7 +9,7 @@
 - [lib.motion](https://github.com/AlibabaMobileFrontEnd/lib.motion)
 - [lib.gesture](https://github.com/AlibabaMobileFrontEnd/lib.gesture)
 - [lib.scroll](https://github.com/AlibabaMobileFrontEnd/lib.scroll)
-- [ctrl.tabpanel](https://github.com/AlibabaMobileFrontEnd/ctrl.tabpanel)
+- [ctrl.tabheader](https://github.com/AlibabaMobileFrontEnd/ctrl.tabheader)
 
 ## 如何使用
 
